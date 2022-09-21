@@ -2,7 +2,7 @@ print("Hello World")
 
 nome = "Hugo"
 
-adulto = True
+adulto = False
 
 print("Hello", nome)
 print("Hello", nome)
